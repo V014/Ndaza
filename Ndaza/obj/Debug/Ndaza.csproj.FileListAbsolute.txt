@@ -1,0 +1,12 @@
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\Ndaza.exe.config
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\Ndaza.exe
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\Ndaza.pdb
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.csprojAssemblyReference.cache
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.Home.resources
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.Properties.Resources.resources
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.csproj.GenerateResource.cache
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.csproj.CoreCompileInputs.cache
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.exe
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.pdb
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\MetroFramework.dll
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.csproj.CopyComplete
