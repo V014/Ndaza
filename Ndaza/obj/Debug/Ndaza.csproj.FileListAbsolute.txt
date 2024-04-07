@@ -10,3 +10,5 @@ C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza
 C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.pdb
 C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\MetroFramework.dll
 C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\obj\Debug\Ndaza.csproj.CopyComplete
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\MetroFramework.Design.dll
+C:\Users\wanga\Documents\Visual Studio 2019\Projects\Ndaza\Ndaza\bin\Debug\MetroFramework.Fonts.dll

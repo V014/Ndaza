@@ -12,9 +12,12 @@ namespace Ndaza
 {
     public partial class Home : Form
     {
+        // include transaction class
+        readonly Transaction transaction = new Transaction();
         public Home()
         {
             InitializeComponent();
+            transaction.LoadTransactions(data_transactions);
         }
     }
 }
