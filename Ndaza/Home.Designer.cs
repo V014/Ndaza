@@ -38,13 +38,13 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel_top = new System.Windows.Forms.Panel();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.chart_income = new System.Windows.Forms.DataVisualization.Charting.Chart();
             ((System.ComponentModel.ISupportInitialize)(this.data_transactions)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chart_income)).BeginInit();
             this.SuspendLayout();
             // 
             // data_transactions
@@ -116,7 +116,7 @@
             // 
             // splitContainer1.Panel1
             // 
-            this.splitContainer1.Panel1.Controls.Add(this.chart1);
+            this.splitContainer1.Panel1.Controls.Add(this.chart_income);
             // 
             // splitContainer1.Panel2
             // 
@@ -125,9 +125,9 @@
             this.splitContainer1.SplitterDistance = 434;
             this.splitContainer1.TabIndex = 3;
             // 
-            // chart1
+            // chart_income
             // 
-            this.chart1.BackColor = System.Drawing.Color.Transparent;
+            this.chart_income.BackColor = System.Drawing.Color.Transparent;
             chartArea1.AxisX.LabelStyle.ForeColor = System.Drawing.Color.DimGray;
             chartArea1.AxisX.LineColor = System.Drawing.Color.Gray;
             chartArea1.AxisX.MajorGrid.LineColor = System.Drawing.Color.DimGray;
@@ -139,8 +139,8 @@
             chartArea1.BackColor = System.Drawing.Color.Transparent;
             chartArea1.BorderColor = System.Drawing.Color.Empty;
             chartArea1.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea1);
-            this.chart1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.chart_income.ChartAreas.Add(chartArea1);
+            this.chart_income.Dock = System.Windows.Forms.DockStyle.Fill;
             legend1.BackColor = System.Drawing.Color.Transparent;
             legend1.ForeColor = System.Drawing.Color.DimGray;
             legend1.Name = "Legend1";
@@ -149,16 +149,16 @@
             legend1.Position.Width = 20.32333F;
             legend1.Position.X = 76.67667F;
             legend1.Position.Y = 3F;
-            this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(0, 0);
-            this.chart1.Name = "chart1";
+            this.chart_income.Legends.Add(legend1);
+            this.chart_income.Location = new System.Drawing.Point(0, 0);
+            this.chart_income.Name = "chart_income";
             series1.ChartArea = "ChartArea1";
             series1.Legend = "Legend1";
             series1.Name = "Net Income";
-            this.chart1.Series.Add(series1);
-            this.chart1.Size = new System.Drawing.Size(434, 438);
-            this.chart1.TabIndex = 0;
-            this.chart1.Text = "chart1";
+            this.chart_income.Series.Add(series1);
+            this.chart_income.Size = new System.Drawing.Size(434, 438);
+            this.chart_income.TabIndex = 0;
+            this.chart_income.Text = "chart1";
             // 
             // Home
             // 
@@ -177,7 +177,7 @@
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chart_income)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -187,7 +187,7 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel_top;
         private System.Windows.Forms.SplitContainer splitContainer1;
-        private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
+        private System.Windows.Forms.DataVisualization.Charting.Chart chart_income;
     }
 }
 
